@@ -17,8 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.meishu.SmartCommunity</string>  // 你的BuildeID 在你
-的Xcode info.plist里找
+                <string>com.meishu.SmartCommunity</string>  // 你的BuildeID 在你的Xcode info.plist里找
                 <key>bundle-version</key>
                 <string>1.0.0</string>         // 版本号 例如 1.0.0
                 <key>kind</key>
