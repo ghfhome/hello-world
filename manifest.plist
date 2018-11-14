@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.meishutech.com/apps/SmartCommunity.ipa</string> //ipa 在服务器上的路径，【IPA所在的URL，要用HTTPS协议】
+                    <string>http://www.meishutech.com/apps/SmartCommunity.ipa</string> //ipa 在服务器上的路径要用HTTPS协议
                 </dict>
             </array>
             <key>metadata</key>
