@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://www.meishutech.com/apps/SmartCommunity.ipa</string> //ipa 在服务器上的路径，【IPA所在的URL，要用HTTPS协议】
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.meishu.SmartCommunity</string>  // 你的BuildeID 在你
+的Xcode info.plist里找
+                <key>bundle-version</key>
+                <string>1.0.0</string>         // 版本号 例如 1.0.0
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>爱慧家</string>      // 这个就是你App的名字 例如:狗蛋
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
